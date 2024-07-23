@@ -1,4 +1,4 @@
-    #Power BI Spotify Dashboard:
+#Power BI Spotify Dashboard:
     
 Project Overview :
 Welcome to the Power BI Spotify Dashboard project! This project involves creating an interactive dashboard using Power BI to visualize and analyze Spotify data. The dashboard provides insights into various aspects of your Spotify listening habits and trends.
